@@ -4,7 +4,7 @@ Game Theme:
 
 Game Rules:
 
-It's a Two Players game. Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player decides to "hold":
+It's a Two Players game. Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player decides to "hold".
 
 If the player rolls a 1, they score nothing and it becomes the next player's turn.
 If the player rolls any other number, it is added to their turn total and the player's turn continues.
@@ -17,4 +17,4 @@ The first player, "Player 1", begins a turn with a roll of 5. "Player 1" could h
 "Player 1" rolls a 2, and could hold with a turn total of 7 points, but chooses to roll again. "Player 1" rolls a 1, and must end his turn without scoring.
 The next player, "Player 2", rolls the sequence 4-5-3-5-5, after which "Player 2" decides to hold, and adds their turn total of 22 points to their score.
 
-Read to test your Metal. Then what are you waiting for? Let's Play!
+Ready to test your Metal. Then what are you waiting for? Let's Play!
