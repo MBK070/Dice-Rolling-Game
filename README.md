@@ -1,6 +1,6 @@
 Game Theme:
 
-Pig is a simple dice game first described in print by John Scarne in 1945 (source Wikipedia: https://en.wikipedia.org/wiki/Pig_(dice_game)).
+'Pig Game' is a simple dice rolling game first described in print by John Scarne in 1945 (source Wikipedia: https://en.wikipedia.org/wiki/Pig_(dice_game)).
 
 
 Game Rules:
