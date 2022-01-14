@@ -1,10 +1,9 @@
-/* Game Rules:
+/* Additional Game Rules:
 
-  A player loses his entire score when he rolls two 6's in a row. After that, 
-  it's the next player's turn.
-
-  Add an iput field to the HTML where players can set the winning score, so
-  that they can change the predfined score of 100.
+  Variation-2: A player loses his ENTIRE score when he rolls two 6's in a row. 
+  After that, it's the next player's turn. Also, add an input field to the HTML where 
+  players can set the winning score, so that they can change the predfined score 
+  of 100.
 
 */
 
