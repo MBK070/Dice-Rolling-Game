@@ -1,6 +1,26 @@
 @import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
 
-* {
+.final-score {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 530px;
+  color: #555;
+  font-size: 18px;
+  font-family: "Lato";
+  text-align: center;
+  padding: 10px;
+  width: 160px;
+  text-transform: uppercase;
+  border: none;
+  border-radius: 50rem;
+}
+
+.final-score:focus {
+  outline: none;
+}
+
+. * {
   margin: 0;
   padding: 0;
   box-sizing: inherit;
@@ -82,7 +102,7 @@ main {
   opacity: 0.8;
   border-radius: 9px;
   color: #fff;
-  width: 65%;
+  width: 40%;
   padding: 2rem;
   text-align: center;
   transition: all 0.75s;
@@ -133,10 +153,10 @@ main {
   top: 4rem;
 }
 .btn--roll {
-  top: 39.3rem;
+  top: 37.8rem;
 }
 .btn--hold {
-  top: 46.1rem;
+  top: 45.2rem;
 }
 
 .btn:active {
@@ -151,7 +171,7 @@ main {
 .dice {
   position: absolute;
   left: 50%;
-  top: 16.5rem;
+  top: 20rem;
   transform: translateX(-50%);
   height: 10rem;
   box-shadow: 0 2rem 5rem rgba(0, 0, 0, 0.2);
