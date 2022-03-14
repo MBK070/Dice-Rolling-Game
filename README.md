@@ -1,3 +1,8 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3ce64469-914a-4f40-bfe2-747c2df2ea00/deploy-status)](https://app.netlify.com/sites/game-of-chance/deploys)
+
+Access to Live-Site: https://game-of-chance.netlify.app/
+
+
 Game Theme:
 
 Dice Rolling Game (Aka 'Pig Game') is a game first described in print by John Scarne in 1945 "source Wikipedia: https://en.wikipedia.org/wiki/Pig_(dice_game)".
